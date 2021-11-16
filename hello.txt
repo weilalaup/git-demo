@@ -13,4 +13,4 @@ hello weilala! hello git!
 hello weilala! hello git!
 hello weilala! hello git!
 hello weilala! hello git! master test
-hello weilala! hello git!
+hello weilala! hello git! hot-fix test
